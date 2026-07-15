@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        while(n!=1 && n!=4)
+        while(n!=1 && n!=4) // every unhappy ends in a loop of 4
         {
          int sum=0;
          while(n>0)
