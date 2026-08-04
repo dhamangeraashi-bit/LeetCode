@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/3731-find-missing-elements) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0342-power-of-four) |
 ## Greedy
