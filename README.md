@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0202-happy-number) |
 | [0409-longest-palindrome](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0409-longest-palindrome) |
+| [3731-find-missing-elements](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [3731-find-missing-elements](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
