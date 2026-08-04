@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0342-power-of-four) |
+| [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -109,4 +111,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/3731-find-missing-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
