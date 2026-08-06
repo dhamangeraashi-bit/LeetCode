@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0409-longest-palindrome) |
 | [3731-find-missing-elements](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/3731-find-missing-elements) |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
@@ -114,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
