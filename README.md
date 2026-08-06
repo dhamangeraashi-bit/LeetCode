@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0263-ugly-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
@@ -137,4 +140,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
