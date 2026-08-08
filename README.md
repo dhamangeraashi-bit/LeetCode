@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0204-count-primes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
