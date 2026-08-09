@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0035-search-insert-position) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
