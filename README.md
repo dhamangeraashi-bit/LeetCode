@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0409-longest-palindrome) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -182,4 +185,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
