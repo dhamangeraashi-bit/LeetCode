@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
