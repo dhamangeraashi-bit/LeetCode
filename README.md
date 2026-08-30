@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0867-transpose-matrix](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -223,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
