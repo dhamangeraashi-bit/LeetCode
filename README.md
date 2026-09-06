@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -70,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0258-add-digits) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3731-find-missing-elements](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -236,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0867-transpose-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
