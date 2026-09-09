@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Recursion
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0923-3sum-with-multiplicity](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0923-3sum-with-multiplicity) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3731-find-missing-elements](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0877-stone-game) |
 | [0923-3sum-with-multiplicity](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3731-find-missing-elements](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/3731-find-missing-elements) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0342-power-of-four) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Greedy
 |  |
 | ------- |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dhamangeraashi-bit/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Quicksort
 |  |
 | ------- |
